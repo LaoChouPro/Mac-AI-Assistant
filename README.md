@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mac AI Assostamt
+# Mac AI Assistant
 ### On MacOS, use option+space to summon the AI assistant chat box, which runs in the menu bar.
 
 </div>
@@ -56,3 +56,4 @@
 - **Carbon** (for global hotkeys)
 - **MarkdownUI** (for Markdown rendering)
 - **SMAppService** (for launch at login)
+
